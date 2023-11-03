@@ -47,6 +47,3 @@ def play_game():
         print('Ничья!')
 
 play_game()
-
-
-print(" ")
